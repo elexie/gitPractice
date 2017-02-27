@@ -1,0 +1,198 @@
+{"Afghanistan",	"Kabul",	"Asia"}
+{"Albania",	"Tirana",	"Europe"}
+{"Algeria",	"Algiers",	"Africa"}
+{"Andorra",	"Andorra la Vella",	"Europe"}
+{"Angola",	"Luanda",	"Africa"}
+{"Antigua and Barbuda",	"Saint John's",	"North America"}
+{"Argentina",	"Buenos Aires",	"South America"}
+{"Armenia",	"Yerevan",	"Europe"}
+{"Australia",	"Canberra",	"Asia"}
+{"Austria",	"Vienna",	"Australia"}
+{"Azerbaijan",	"Baku",	"Europe"}
+{"Bahamas",	"Nassau",	"Europe"}
+{"Bahrain",	"Manama",	"Asia"}
+{"Bangladesh",	"Dhaka",	"North America"}
+{"Barbados",	"Bridgetown",	"Asia"}
+{"Belarus",	"Minsk",	"Asia"}
+{"Belgium",	"Brussels",	"North America"}
+{"Belize",	"Belmopan",	"Europe"}
+{"Benin",	"Porto-Novo",	"Europe"}
+{"Bhutan",	"Thimphu",	"North America"}
+{"Bolivia",	"La Paz (administrative); Sucre (judicial)",	"Africa"}
+{"Bosnia and Herzegovina",	"Sarajevo",	"Asia"}
+{"Botswana",	"Gaborone",	"South America"}
+{"Brazil",	"Brasilia",	"Europe"}
+{"Brunei",	"Bandar Seri Begawan",	"Africa"}
+{"Bulgaria",	"Sofia",	"South America"}
+{"Burkina Faso",	"Ouagadougou",	"Asia"}
+{"Burundi",	"Bujumbura",	"Europe"}
+{"Cabo Verde",	"Praia",	"Africa"}
+{"Cambodia",	"Phnom Penh",	"Africa"}
+{"Cameroon",	"Yaoundé",	"Africa"}
+{"Canada",	"Ottawa",	"Asia"}
+{"Central African Republic",	"Bangui",	"Africa"}
+{"Chad",	"N'Djamena",	"North America"}
+{"Chile",	"Santiago",	"Africa"}
+{"China",	"Beijing",	"Africa"}
+{"Colombia",	"Bogotá",	"South America"}
+{"Comoros",	"Moroni",	"Asia"}
+{"Congo, Republic of the",	"Brazzaville",	"South America"}
+{"Congo, Democratic Republic of the",	"Kinshasa",	"Africa"}
+{"Costa Rica",	"San Jose",	"Africa"}
+{"Cote d'Ivoire",	"Yamoussoukro",	"Africa"}
+{"Croatia",	"Zagreb",	"North America"}
+{"Cuba",	"Havana",	"Africa"}
+{"Cyprus",	"Nicosia",	"Europe"}
+{"Czech Republic",	"Prague",	"North America"}
+{"Denmark",	"Copenhagen",	"Europe"}
+{"Djibouti",	"Djibouti (city)",	"Asia"}
+{"Dominica",	"Roseau",	"Europe"}
+{"Dominican Republic",	"Santo Domingo",	"Europe"}
+{"Ecuador",	"Quito",	"Africa"}
+{"Egypt",	"Cairo",	"North America"}
+{"El Salvador",	"San Salvador",	"North America"}
+{"Equatorial Guinea",	"Malabo",	"South America"}
+{"Eritrea",	"Asmara",	"Africa"}
+{"Estonia",	"Tallinn",	"North America"}
+{"Ethiopia",	"Addis Ababa",	"Africa"}
+{"Fiji",	"Suva",	"Africa"}
+{"Finland",	"Helsinki",	"Europe"}
+{"France",	"Paris",	"Africa"}
+{"Gabon",	"Libreville",	"Australia"}
+{"Gambia",	"Banjul",	"Europe"}
+{"Georgia",	"Tbilisi",	"Europe"}
+{"Germany",	"Berlin",	"Africa"}
+{"Ghana",	"Accra",	"Africa"}
+{"Greece",	"Athens",	"Europe"}
+{"Grenada",	"St. George's",	"Asia"}
+{"Guatemala",	"Guatemala City",	"Europe"}
+{"Guinea",	"Conakry",	"Africa"}
+{"Guinea-Bissau",	"Bissau",	"Europe"}
+{"Guyana",	"Georgetown",	"North America"}
+{"Haiti",	"Port-au-Prince",	"North America"}
+{"Honduras",	"Tegucigalpa",	"Africa"}
+{"Hungary",	"Budapest",	"Africa"}
+{"Iceland",	"Reykjavik",	"South America"}
+{"India",	"New Delhi",	"North America"}
+{"Indonesia",	"Jakarta",	"North America"}
+{"Iran",	"Tehran",	"Europe"}
+{"Iraq",	"Baghdad",	"Europe"}
+{"Ireland",	"Dublin",	"Asia"}
+{"Israel",	"Jerusalem",	"Asia"}
+{"Italy",	"Rome",	"Asia"}
+{"Jamaica",	"Kingston",	"Asia"}
+{"Japan",	"Tokyo",	"Europe"}
+{"Jordan",	"Amman",	"Asia"}
+{"Kazakhstan",	"Astana",	"Europe"}
+{"Kenya",	"Nairobi",	"North America"}
+{"Kiribati",	"South Tarawa",	"Asia"}
+{"Kosovo",	"Pristina",	"Asia"}
+{"Kuwait",	"Kuwait City",	"Europe"}
+{"Kyrgyzstan",	"Bishkek",	"Asia"}
+{"Laos",	"Vientiane",	"Africa"}
+{"Latvia",	"Riga",	"Europe"}
+{"Lebanon",	"Beirut",	"Asia"}
+{"Lesotho",	"Maseru",	"Asia"}
+{"Liberia",	"Monrovia",	"Asia"}
+{"Libya",	"Tripoli",	"Europe"}
+{"Liechtenstein",	"Vaduz",	"Asia"}
+{"Lithuania",	"Vilnius",	"Africa"}
+{"Luxembourg",	"Luxembourg",	"Africa"}
+{"Macedonia",	"Skopje",	"Africa"}
+{"Madagascar",	"Antananarivo",	"Europe"}
+{"Malawi",	"Lilongwe",	"Europe"}
+{"Malaysia",	"Kuala Lumpur",	"Europe"}
+{"Maldives",	"Male",	"Europe"}
+{"Mali",	"Bamako",	"Africa"}
+{"Malta",	"Valletta",	"Africa"}
+{"Marshall Islands",	"Majuro",	"Asia"}
+{"Mauritania",	"Nouakchott",	"Asia"}
+{"Mauritius",	"Port Louis",	"Africa"}
+{"Mexico",	"Mexico City",	"Europe"}
+{"Micronesia",	"Palikir",	"Africa"}
+{"Moldova",	"Chisinau",	"Africa"}
+{"Monaco",	"Monaco",	"North America"}
+{"Mongolia",	"Ulaanbaatar",	"Europe"}
+{"Montenegro",	"Podgorica",	"Europe"}
+{"Morocco",	"Rabat",	"Asia"}
+{"Mozambique",	"Maputo",	"Europe"}
+{"Myanmar (Burma)",	"Naypyidaw",	"Africa"}
+{"Namibia",	"Windhoek",	"Africa"}
+{"Nauru",	"Yaren District",	"Africa"}
+{"Nepal",	"Kathmandu",	"Asia"}
+{"Netherlands",	"Amsterdam",	"Europe"}
+{"New Zealand",	"Wellington",	"Australia"}
+{"Nicaragua",	"Managua",	"North America"}
+{"Niger",	"Niamey",	"Africa"}
+{"Nigeria",	"Abuja",	"Africa"}
+{"North Korea",	"Pyongyang",	"Asia"}
+{"Norway",	"Oslo",	"Europe"}
+{"Oman",	"Muscat",	"Asia"}
+{"Pakistan",	"Islamabad",	"Asia"}
+{"Palau",	"Ngerulmud",	"Asia"}
+{"Palestine",	"Ramallah",	"North America"}
+{"Panama",	"Panama City",	"South America"}
+{"Papua New Guinea",	"Port Moresby",	"South America"}
+{"Paraguay",	"Asunción",	"Asia"}
+{"Peru",	"Lima",	"Europe"}
+{"Philippines",	"Manila",	"Europe"}
+{"Poland",	"Warsaw",	"Asia"}
+{"Portugal",	"Lisbon",	"Europe"}
+{"Qatar",	"Doha",	"Europe"}
+{"Romania",	"Bucharest",	"Asia"}
+{"Russia",	"Moscow",	"Africa"}
+{"Rwanda",	"Kigali",	"Europe"}
+{"Saint Kitts and Nevis",	"Basseterre",	"Africa"}
+{"Saint Lucia",	"Castries",	"Asia"}
+{"Saint Vincent and the Grenadines",	"Kingstown",	"Africa"}
+{"Samoa",	"Apia",	"Europe"}
+{"San Marino",	"San Marino",	"Africa"}
+{"Sao Tome and Principe",	"São Tomé",	"Africa"}
+{"Saudi Arabia",	"Riyadh",	"Asia"}
+{"Senegal",	"Dakar",	"Europe"}
+{"Serbia",	"Belgrade",	"Europe"}
+{"Seychelles",	"Victoria",	"Africa"}
+{"Sierra Leone",	"Freetown",	"Africa"}
+{"Singapore",	"Singapore",	"Asia"}
+{"Slovakia",	"Bratislava",	"Africa"}
+{"Slovenia",	"Ljubljana",	"Europe"}
+{"Solomon Islands",	"Honiara",	"Asia"}
+{"Somalia",	"Mogadishu",	"Africa"}
+{"South Africa",	"Pretoria (administrative); Cape Town (legislative); Bloemfontein (judicial)",	"South America"}
+{"South Korea",	"Seoul",	"Africa"}
+{"South Sudan",	"Juba",	"Europe"}
+{"Spain",	"Madrid",	"Europe"}
+{"Sri Lanka",	"Sri Jayawardenepura Kotte",	"Asia"}
+{"Sudan",	"Khartoum",	"Asia"}
+{"Suriname",	"Paramaribo",	"Asia"}
+{"Swaziland",	"Mbabane",	"Africa"}
+{"Sweden",	"Stockholm",	"Asia"}
+{"Switzerland",	"Bern",	"Asia"}
+{"Syria",	"Damascus",	"Africa"}
+{"Taiwan",	"Taipei",	"North America"}
+{"Tajikistan",	"Dushanbe",	"Africa"}
+{"Tanzania",	"Dodoma",	"Europe"}
+{"Thailand",	"Bangkok",	"Asia"}
+{"Timor-Leste",	"Dili",	"Asia"}
+{"Togo",	"Lomé",	"Africa"}
+{"Tonga",	"Nuku?alofa",	"Europe"}
+{"Trinidad and Tobago",	"Port of Spain",	"Asia"}
+{"Tunisia",	"Tunis",	"Europe"}
+{"Turkey",	"Ankara",	"North America"}
+{"Turkmenistan",	"Ashgabat",	"South America"}
+{"Tuvalu",	"Funafuti",	"Asia"}
+{"Uganda",	"Kampala",	"Europe"}
+{"Ukraine",	"Kyiv",	"South America"}
+{"United Arab Emirates",	"Abu Dhabi",	"Asia"}
+{"United Kingdom",	"London",	"Asia"}
+{"United States of America",	"Washington, D.C.",	"Africa"}
+{"Uruguay",	"Montevideo",	"Africa"}
+{"Uzbekistan",	"Tashkent",	"Asia"}
+{"Vanuatu",	"Port Vila",	"Europe"}
+{"Vatican City (Holy See)",	"Vatican City",	"Africa"}
+{"Venezuela",	"Caracas",	"Europe"}
+{"Vietnam",	"Hanoi",	"Africa"}
+{"Yemen",	"Sana'a",	"North America"}
+{"Zambia",	"Lusaka",	"South America"}
+{"Zimbabwe",	"Harare",	"Europe"}
+
